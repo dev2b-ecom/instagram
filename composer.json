@@ -1,0 +1,19 @@
+{
+    "name": "dev2b/instagram",
+    "description": "Dev2b Platform extension. Instagram Widget.",
+    "minimum-stability":"dev",
+    "authors": [
+        {
+            "name": "Vitaliy Korolev"
+        }
+    ],
+    "homepage": "https://dev2b.ru",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "dev2b/platform": "dev-master"
+    },
+    "autoload": {
+        "psr-4": { "dev2b\\instagram\\": "src/" }
+    }
+}
