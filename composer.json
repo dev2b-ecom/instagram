@@ -1,6 +1,6 @@
 {
     "name": "dev2b/instagram",
-    "description": "Dev2b Platform extension. Instagram Widget.",
+    "description": "Instagram Widget for Dev2b Ecommerce Platform.",
     "minimum-stability":"dev",
     "authors": [
         {
